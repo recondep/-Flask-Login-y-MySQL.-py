@@ -1,0 +1,7 @@
+/mi_proyecto_flask
+    /conexion
+        conexion.py
+    /models
+        models.py
+    app.py
+    requirements.txt
